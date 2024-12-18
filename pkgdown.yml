@@ -1,0 +1,6 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  rgeoda_tutorial: rgeoda_tutorial.html
+last_built: 2024-12-18T14:54Z
